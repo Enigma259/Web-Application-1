@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{CAFC2E2D-D0CE-4C23-8CB5-CADD85E8C9BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{A58C9FBA-F549-48BB-AE22-1F490BB171DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderHandler", "OrderHandler\OrderHandler.csproj", "{A48AB693-4B49-4237-BF2F-DBA2F0C31227}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit Test", "Unit Test\Unit Test.csproj", "{2C546B19-27C9-4011-A948-72B10C7411B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAFC2E2D-D0CE-4C23-8CB5-CADD85E8C9BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFC2E2D-D0CE-4C23-8CB5-CADD85E8C9BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFC2E2D-D0CE-4C23-8CB5-CADD85E8C9BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFC2E2D-D0CE-4C23-8CB5-CADD85E8C9BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A58C9FBA-F549-48BB-AE22-1F490BB171DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A58C9FBA-F549-48BB-AE22-1F490BB171DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A58C9FBA-F549-48BB-AE22-1F490BB171DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A58C9FBA-F549-48BB-AE22-1F490BB171DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A48AB693-4B49-4237-BF2F-DBA2F0C31227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A48AB693-4B49-4237-BF2F-DBA2F0C31227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A48AB693-4B49-4237-BF2F-DBA2F0C31227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A48AB693-4B49-4237-BF2F-DBA2F0C31227}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C546B19-27C9-4011-A948-72B10C7411B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C546B19-27C9-4011-A948-72B10C7411B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C546B19-27C9-4011-A948-72B10C7411B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C546B19-27C9-4011-A948-72B10C7411B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDB874A8-BBAD-4DD5-BE93-04671840E470}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ucn-projects.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ClassLibrary1\\ClassLibrary1.csproj
+		SccProjectName1 = ClassLibrary1
+		SccLocalPath1 = ClassLibrary1
+		SccProjectUniqueName2 = WebAPI\\WebAPI.csproj
+		SccProjectName2 = WebAPI
+		SccLocalPath2 = WebAPI
+		SccProjectUniqueName3 = OrderHandler\\OrderHandler.csproj
+		SccProjectName3 = OrderHandler
+		SccLocalPath3 = OrderHandler
+		SccProjectUniqueName4 = Unit\u0020Test\\Unit\u0020Test.csproj
+		SccProjectName4 = Unit\u0020Test
+		SccLocalPath4 = Unit\u0020Test
+	EndGlobalSection
+EndGlobal
